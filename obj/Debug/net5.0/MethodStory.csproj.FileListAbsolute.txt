@@ -1,0 +1,16 @@
+C:\Users\Robz PC\repos\MethodStory\MethodStory\bin\Debug\net5.0\MethodStory.exe
+C:\Users\Robz PC\repos\MethodStory\MethodStory\bin\Debug\net5.0\MethodStory.deps.json
+C:\Users\Robz PC\repos\MethodStory\MethodStory\bin\Debug\net5.0\MethodStory.runtimeconfig.json
+C:\Users\Robz PC\repos\MethodStory\MethodStory\bin\Debug\net5.0\MethodStory.runtimeconfig.dev.json
+C:\Users\Robz PC\repos\MethodStory\MethodStory\bin\Debug\net5.0\MethodStory.dll
+C:\Users\Robz PC\repos\MethodStory\MethodStory\bin\Debug\net5.0\ref\MethodStory.dll
+C:\Users\Robz PC\repos\MethodStory\MethodStory\bin\Debug\net5.0\MethodStory.pdb
+C:\Users\Robz PC\repos\MethodStory\MethodStory\obj\Debug\net5.0\MethodStory.csproj.AssemblyReference.cache
+C:\Users\Robz PC\repos\MethodStory\MethodStory\obj\Debug\net5.0\MethodStory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robz PC\repos\MethodStory\MethodStory\obj\Debug\net5.0\MethodStory.AssemblyInfoInputs.cache
+C:\Users\Robz PC\repos\MethodStory\MethodStory\obj\Debug\net5.0\MethodStory.AssemblyInfo.cs
+C:\Users\Robz PC\repos\MethodStory\MethodStory\obj\Debug\net5.0\MethodStory.csproj.CoreCompileInputs.cache
+C:\Users\Robz PC\repos\MethodStory\MethodStory\obj\Debug\net5.0\MethodStory.dll
+C:\Users\Robz PC\repos\MethodStory\MethodStory\obj\Debug\net5.0\ref\MethodStory.dll
+C:\Users\Robz PC\repos\MethodStory\MethodStory\obj\Debug\net5.0\MethodStory.pdb
+C:\Users\Robz PC\repos\MethodStory\MethodStory\obj\Debug\net5.0\MethodStory.genruntimeconfig.cache
