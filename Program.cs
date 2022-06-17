@@ -53,7 +53,7 @@ namespace MethodStory
             Console.WriteLine("Give me another number.");
             int num5 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Give me another number to devide.");
+            Console.WriteLine("Give me another number to divide.");
             int num6 = int.Parse(Console.ReadLine());
 
             int devide = divide(num5, num6);
